@@ -63,10 +63,22 @@ I am **Abhay Rajpoot**, an undergrad majoring in Computer Science and Engineerin
 
 [![@abhay_raj19's Holopin board](https://holopin.me/abhay_raj19)](https://holopin.io/@abhay_raj19)
 
+<div align = "center">
+
+![Abhay's Github Status](https://github-readme-stats.vercel.app/api?username=Abhay-raj19&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<hr>
+    
+<br></br>
+
+[![Abhay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhay-raj19&theme=xcode)](https://github.com/Abhay-raj19)
+
+
+</div>  
+
 
 <p>
-  <h1 align=center>✨Connect With Me✨</h1>
-</p>
+  <h1 align=center>✨Connect With Me✨
 <p align="centre">
   <br/>
 <a href="https://www.linkedin.com/in/abhay-rajpoot-799a00184/">
@@ -90,4 +102,7 @@ I am **Abhay Rajpoot**, an undergrad majoring in Computer Science and Engineerin
 <a href="https://www.codechef.com/users/abhiraj_aiml1c">
   <img src="https://user-images.githubusercontent.com/96302417/199996172-775b3d9f-bba1-4753-a5c9-19716c20255a.png" width=40>
 </a>
+    </p>
+    </h1>
+    </p>
 
