@@ -84,7 +84,7 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
 <a href="https://www.linkedin.com/in/abhay-rajpoot-799a00184/">
 <img src="https://img.icons8.com/color/512/linkedin-circled.png" width=45>
 </a>
-<a href="https://www.instagram.com/__rajpoot.abhi__/">
+<a href="https://www.instagram.com/__.rajpoot.abhi.__/">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width=40>
 </a>
 <a href="https://twitter.com/rajpootabhay423/">
