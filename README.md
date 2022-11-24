@@ -70,10 +70,6 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
 <hr>
     
 <br></br>
-
-[![Abhay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhay-raj19&theme=xcode)](https://github.com/Abhay-raj19)
-
-
 </div>  
 
 
