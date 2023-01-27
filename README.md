@@ -56,38 +56,6 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
         <span>AI/ML</span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
       </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
     </tr>
   </tbody>
 </table>
@@ -98,34 +66,23 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
 <div align = "center">
 
 ![Abhay's Github Status](https://github-readme-stats.vercel.app/api?username=Abhay-raj19&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
-    
 <br></br>
 </div>  
-
-
 <p>
-  <h1 align=center>✨Connect With Me✨
+<h1 align=center>✨Connect With Me✨
 <p align="centre">
-  <br/>
+<br/>
 <a href="https://www.linkedin.com/in/abhay-rajpoot-799a00184/">
 <img src="https://img.icons8.com/color/512/linkedin-circled.png" width=45>
-</a>
-<a href="https://www.instagram.com/__.rajpoot.abhi.__/">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width=40>
 </a>
 <a href="https://twitter.com/abhayraj423/">
 <img src="https://user-images.githubusercontent.com/96302417/199981578-e5ea0f63-a2be-4d09-9de2-070e083948e7.png" width=40>
 </a>
 <a href="https://dev.to/abhayraj19">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu8RqPMjumGKBzK-zaNLVrgPVNLIz7EGwusoJUcuvVfAvAlbSjNUmXIO7vff0HzYld6A&usqp=CAU" width=45>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu8RqPMjumGKBzK-zaNLVrgPVNLIz7EGwusoJUcuvVfAvAlbSjNUmXIO7vff0HzYld6A&usqp=CAU" width=45>
 </a>
- <a href="https://www.hackerrank.com/AIMLC_ABHI_31914">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width=40>
-</a>
-<a href="https://leetcode.com/abhay_rajpoot423/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width=30>
+<a href="https://www.instagram.com/__.rajpoot.abhi.__/">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width=40>
 </a>
 </p>
 </h1>
