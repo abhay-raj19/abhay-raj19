@@ -56,6 +56,38 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
         <span>AI/ML</span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
       </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
+      <td width="25%" align="center">
+        <span>AI/ML</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
+      </td>
     </tr>
   </tbody>
 </table>
