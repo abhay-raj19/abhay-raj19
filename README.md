@@ -95,9 +95,7 @@ I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engine
 <a href="https://leetcode.com/abhay_rajpoot423/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width=30>
 </a>
-<a href="https://www.codechef.com/users/abhiraj_aiml1c">
-  <img src="https://user-images.githubusercontent.com/96302417/199996172-775b3d9f-bba1-4753-a5c9-19716c20255a.png" width=40>
-</a>
+
     </p>
     </h1>
     </p>
