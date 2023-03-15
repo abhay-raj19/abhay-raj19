@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhay-raj19&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay-raj19">
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
-I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Python` and `C++`. I’m currently looking through `Web Development` and `Competitive Programming`.
+I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Python` and `C++`. I’m currently looking through `Fullstack Development` and `Problem solving`.
 
 - I'm interested in `Devops` and `Machine Learning`.
 - Ask me about `Python` and `C++`.
