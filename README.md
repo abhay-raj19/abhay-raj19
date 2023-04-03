@@ -4,7 +4,7 @@
 - 💻 Developing Web apps using `MERN`.
 - 🐬 Learning And Focussing On `DevOps`.
 - 🐍 Loves to talk `Python` and `C++`.
-- 😍 Having a keen intrest in `Blockchain And its Algorithms`.
+- 😍 Having a keen interest in `Blockchain And its Algorithms`.
 - 📈 Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 
 <br>
