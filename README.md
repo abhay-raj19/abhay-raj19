@@ -1,90 +1,40 @@
-### Hello World ,👋Welcome to my GitHub Profile !!
-<p>
-<img src='https://i.pinimg.com/originals/dc/e0/65/dce0653e6eb941f533198de95a5c2b15.gif' align="right" width=250>
-  
-</p>
-<img src="https://komarev.com/ghpvc/?username=abhay-raj19&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay-raj19">
-<img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
+<h1 align="center">Hey!👋, this is Abhay</h1>
+<h3 align="center">A Passionate Programmer</h3>
 
-I am **Abhay Rajpoot**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Python` and `C++`. I’m currently looking through `Fullstack Development` and `Problem solving`.
+- 💻 Developing Web apps using `MERN`.
+- 🐬 Learning And Focussing On `DevOps`.
+- 🐍 Loves to talk `Python` and `C++`.
+- 😍 Having a keen intrest in `Blockchain And its Algorithms`.
+- 📈 Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 
-- I'm interested in `Devops` and `Machine Learning`.
-- Ask me about `Python` and `C++`.
-- Currently working on my mini project involving `Machine Learning` and `Artificial Intelligence`.
-- Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 <br>
 
-### 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+<h2 align="left">Tech Stack : </h2>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>MySQL</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>HTML/CSS</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>AI/ML</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12wy73DSXlEQeMdnjKbsbBLOfvmvH-bQgNw&usqp=CAU">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a><a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="40" height="40"/></a>
+
+</p>
+
 <br>
 
 [![@abhay_raj19's Holopin board](https://holopin.me/abhay_raj19)](https://holopin.io/@abhay_raj19)
 
-<div align = "center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-raj19&show_icons=true&locale=en&layout=compact" alt="abhay-raj19" /></p>
 
-![Abhay's Github Status](https://github-readme-stats.vercel.app/api?username=Abhay-raj19&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-<br></br>
-</div>  
-<p>
-<h1 align=center>✨Connect With Me✨
-<p align="centre">
-<br/>
-<a href="https://www.linkedin.com/in/abhay-rajpoot-799a00184/">
-<img src="https://img.icons8.com/color/512/linkedin-circled.png" width=45>
-</a>
-<a href="https://twitter.com/abhayraj423/">
-<img src="https://user-images.githubusercontent.com/96302417/199981578-e5ea0f63-a2be-4d09-9de2-070e083948e7.png" width=40>
-</a>
-<a href="https://dev.to/abhayraj19">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu8RqPMjumGKBzK-zaNLVrgPVNLIz7EGwusoJUcuvVfAvAlbSjNUmXIO7vff0HzYld6A&usqp=CAU" width=45>
-</a>
-<a href="https://www.instagram.com/__.rajpoot.abhi.__/">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width=40>
-</a>
-</p>
-</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-raj19&show_icons=true&locale=en" alt="abhay-raj19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-raj19&" alt="abhay-raj19" /></p>
+
+
+<h2 align="left">Connect with me : </h2>
+<p align="left">
+<a href="https://twitter.com/abhayraj423" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="abhayraj423" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhay-raj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/aboyyraj" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="aboyyraj" height="30" width="40" /></a>
+<a href="https://dev.to/abhayraj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="aarav238" height="30" width="40" /></a>
 </p>
 
