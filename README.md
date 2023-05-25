@@ -38,3 +38,6 @@
 <a href="https://dev.to/abhayraj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="aarav238" height="30" width="40" /></a>
 </p>
 
+
+[![](https://visitcount.itsvg.in/api?id=abhay-raj19&icon=0&color=1)](https://visitcount.itsvg.in)
+
