@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Programmer</h3>
 
 - 💻 Developing Web apps using `MERN`.
-- 🐬 Learning And Focussing On `DevOps`.
+- 🐬 Learning And practicing On `DevOps`.
 - 🐍 Loves to talk `Python` and `C++`.
 - 😍 Having a keen interest in `Blockchain And its Algorithms`.
 - 📈 Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
