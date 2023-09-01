@@ -34,7 +34,6 @@
 <p align="left">
 <a href="https://twitter.com/abhayraj423" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="abhayraj423" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhay-raj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/aboyyraj" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="aboyyraj" height="30" width="40" /></a>
 <a href="https://dev.to/abhayraj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="aarav238" height="30" width="40" /></a>
 </p>
 
