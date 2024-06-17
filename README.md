@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,kubernetes,docker,vim,docker,prometheus,grafana,azure,bash,html,devto,javascript,linux,nodejs,mongodb,python,prisma,postman,postgres,react,redis,tailwind,typescript,nextjs,express,ubuntu,fastapi,jest,cypress,nginx,mysql,yarn,npm,cpp,css,figma,firebase,kali,materialui,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,aws,kubernetes,docker,vim,docker,prometheus,grafana,azure,bash,html,javascript,linux,nodejs,mongodb,python,prisma,postman,postgres,react,redis,tailwind,typescript,nextjs,express,ubuntu,fastapi,jest,cypress,nginx,mysql,yarn,npm,cpp,css,figma,firebase,kali,materialui,replit,vscode" />
   </a>
 </p>
 
@@ -36,11 +36,9 @@
 
 
 <h2 align="left">Connect with me : </h2>
-<p align="left">
-<a href="https://twitter.com/abhayraj423" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="abhayraj423" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhay-raj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="" height="30" width="40" /></a>
-<a href="https://dev.to/abhayraj19" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="aarav238" height="30" width="40" /></a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhay-raj19) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/abhayraj423/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:rajpootabhay423@gmail.com) [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/abhayraj19)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=abhay-raj19&icon=0&color=1)](https://visitcount.itsvg.in)
